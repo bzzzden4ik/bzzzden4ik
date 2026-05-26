@@ -90,6 +90,12 @@ I avoid treating frameworks as magic black boxes. My engineering decisions are d
 [![Telegram](https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bzzzden4ik)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadorofeev4eu@gmail.com)
 
+---
+
+<p align="center">
+  <img src="https://i.gifer.com/84OP.gif" alt="Chill Pixel Sakura" width="100%" />
+</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=bzzzden4ik&color=1b4773&style=flat-square&label=DASHBOARD+VIEWS" alt="Profile Views" />
 </p>

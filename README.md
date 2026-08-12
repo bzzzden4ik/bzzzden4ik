@@ -1,4 +1,4 @@
-# Hi, I'm Kirill Dorofeev 👋
+# Hi, I'm Kirill Dorofeev
 
 <p align="left">
   <a href="https://github.com/bzzzden4ik">

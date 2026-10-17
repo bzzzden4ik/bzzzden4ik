@@ -1,5 +1,3 @@
-# Hi, I'm Kirill Dorofeev
-
 <p align="left">
   <a href="https://github.com/bzzzden4ik">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1B4773&width=550&lines=Systems+%26+Backend+Engineer;High-Load+Architecture+Designer;Data+Ingestion+Pipelines+Builder;Low-Level+Internals+Enthusiast" alt="Typing SVG" />
